@@ -61,7 +61,7 @@ Response:
   "message": "User created successfully"
 }
 
-### Login[login]
+### Login {#login}
 
 Endpoint: `POST /auth/login`
 
@@ -73,11 +73,6 @@ Request Body:
 {
   "username": "example_user",
   "password": "example_password"
-}
-
-Response
-{
-  "token": "your_generated_jwt_token"
 }
 
 ## Notes API
