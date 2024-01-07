@@ -14,19 +14,16 @@ To run the project locally, you need to have Docker Compose installed. If you do
 
 2. Navigate to the project directory:
 
-   ```bash
-   cd practice-assessment
+      ```bash
+      cd practice-assessment
 
-3.Run the Project:
-
-  ```bash
-  docker-compose up
-
+3. Run the Project:
+     ```bash
+     docker-compose up
 
 4. Run the Test:
-  ```bash
-  npm run test
-
+   ```bash
+    npm run test
 
 
 ## Table of Contents
