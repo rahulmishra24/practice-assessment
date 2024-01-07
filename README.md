@@ -61,7 +61,7 @@ Response:
   "message": "User created successfully"
 }
 
-### [Login](#login)
+### Login
 
 Endpoint: `POST /auth/login`
 
