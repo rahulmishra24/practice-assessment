@@ -55,6 +55,7 @@ Request Body:
   "username": "example_user",
   "password": "example_password"
 }
+```
 
 Response:
 {
@@ -74,6 +75,7 @@ Request Body:
   "username": "example_user",
   "password": "example_password"
 }
+```
 
 ## Notes API
 
@@ -99,6 +101,9 @@ Response:
   }
   // ... other notes
 ]
+```
+
+
 
 ### Fetch a Note by ID
 
@@ -114,6 +119,7 @@ Response:
   "title": "Note Title",
   "content": "Note Content"
 }
+```
 
 ### Create a New Note
 
@@ -128,6 +134,7 @@ Request Body:
   "title": "New Note",
   "content": "This is the content of the new note"
 }
+```
 
 Response
 {
@@ -147,6 +154,7 @@ Request Body:
   "title": "Updated Note Title",
   "content": "Updated Note Content"
 }
+```
 
 Response
 {
@@ -170,6 +178,7 @@ Response:
   "content": "Shared Note Content",
   "sharedWith": "user_id"
 }
+```
 
 
 ### Delete a Note by ID
@@ -184,6 +193,7 @@ Response:
 {
   "message": "Note deleted successfully"
 }
+```
 
 
 ### Search Notes
@@ -212,6 +222,7 @@ Response:
   }
   // ... other matching notes
 ]
+```
 
 
 
