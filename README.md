@@ -1,7 +1,7 @@
 # practice-assessment
 # Your Project Name
 
-A brief description of your project.
+A Practice Assessment for creating, fetching and sharing notes by providing authentication with rate limiting system.
 
 ## Table of Contents
 
